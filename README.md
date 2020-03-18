@@ -21,8 +21,8 @@ Converting speech in text was used SpeecRcognition api witch currently is in Chr
   At first you nedd to set yout own env propeties and add your own MongoDB link
 
 ``` 
-   cd back && npm i || yarn && npm run dev || yarn run dev </br>
-   cd ../front && npm i || yarn && npm start || yarn start </br> 
+   cd back && npm i || yarn && npm run dev || yarn run dev 
+   cd ../front && npm i || yarn && npm start || yarn start 
 ```
 
 # MVP Functionality
