@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@stardust-ui/docs-components": "^0.40.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "firebase": "^7.10.0",
     "immer": "^6.0.1",
